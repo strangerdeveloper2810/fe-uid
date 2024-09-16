@@ -1,0 +1,1 @@
+export const GET_ALL_PRODUCT_API = "GET_ALL_PRODUCT_API";
